@@ -1,4 +1,4 @@
-# shadcn_django
+# Django-shadcnUI
 
 [![PyPI](https://img.shields.io/pypi/v/shadcn_django.svg)](https://pypi.org/project/shadcn_django)
 [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-orange.json)](https://github.com/copier-org/copier)
@@ -12,12 +12,6 @@ Components are built with Tailwind CSS and Alpine.js and are HTMX-compatible, ma
 `shadcn_django` provides a CLI tool that allows you to initialize and add shadcn-style components to your Django templates.
 
 Docs: https://shadcn-django.com
-
----
-
-Video overview by BugBytes:
-
-[![Video (from BugBytes)](https://img.youtube.com/vi/p8abKXay9T4/0.jpg)](https://youtu.be/p8abKXay9T4)
 
 ---
 
