@@ -3,7 +3,7 @@ name = "shadcn_django"
 version = "0.24.1"
 description = "shadcn/ui for Django"
 readme = "README.md"
-authors = [{ name = "Sarthak Jariwala", email = "sarthak@sarthakjariwala.com" }]
+authors = [{ name = "Wiktor Piotorwski", email = "wiktor@wktorpiotorwski.com" }]
 requires-python = ">=3.12"
 keywords = ["django", "shadcn", "ui", "shadcn-django", "components", "shadcnui"]
 classifiers = [
